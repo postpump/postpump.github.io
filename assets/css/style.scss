@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1, h2, h3, h4, h5, h6 {
+  color:#3E2C41;
+}
+
+h2, h3, h4, h5, h6 {
+  color:#5C527F;
+}
+
+a {
+  color:#6E85B2;
+  text-decoration: underline;
+}
+
+a:hover, a:focus {
+  color:#069;
+  font-weight: normal;
+}
+
+h1 a {
+  color:#3E2C41;
+  text-decoration: none;
+}
+
+h1 a:hover, a:focus {
+  font-weight: bold;
+}
+
+a small {
+  color:#777;
+}
+
+a:hover small {
+  color:#777;
+}
+
+.subscribe {
+  background-color: #74B49B; 
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
