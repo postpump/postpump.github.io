@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 show_downloads: false
-title: Post Pump - Land Use and Zoning for an Electric Vehicle World
+title: Post Pump
 logo: docs/assets/nabgas.png
-description: Post Pump is an organization providing resources and research to pursuade City, County, and State Land Use and Zoning code updates to protect taxpayers from abandoned fuel stations in an electric vehcile future
+description: Post Pump provides resources and research to help City, County, and State officials update Land Use and Zoning codes in an electric vehcile future.
 whitelist:
   - jekyll-redirect-from
 plugins:
