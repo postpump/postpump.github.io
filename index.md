@@ -6,7 +6,7 @@ title:
 
 Post Pump provides resources and research to help City, County, and State officials update Land Use and Zoning codes in an electric vehicle future. In particular we advocate for municipalities to begin planning for the decline and insolvency of gas/fuel/service stations across the United States and the financial and environmental impact of station abandonment.
 
-## What options are there?
+## What options are there to change zoning?
 
 - **Short term** (conservative plan): service/fuel/gas stations are required to have a 100+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
 
@@ -14,7 +14,7 @@ Post Pump provides resources and research to help City, County, and State offici
 
 - **Long term** (ultimate plan): service/fuel/gas stations are not allowed to be constructed. This will likely require double digit percentage electric vehicle adoption in the area along with rapid multi percentage point adoption year over year.
 
-## Is anyone doing this?
+## Is anyone changing zoning for service/fuel/gas stations?
 
 In 2021 Petaluma, CA became the first city to ban the construction of new fuel stations. In their [City Land Use Code](https://petaluma.municipal.codes/ZoningOrds/4.Tables) you can now see that in all zones Fuel Stations are marked as "Use Not Allowed".
 
@@ -27,7 +27,13 @@ In 2014 Montgomery County, MD passed Ordinance amendment that requires a 500ft s
 
 ## Reports
 
-### Underground Storage Tanks
+### Oregon DEQ Annual Leak Report
+
+Oregon DEQ reported 50 Underground Storage Tank releases between October 1st 2020 and September 30th 2021 in their [annual report](https://www.oregon.gov/deq/tanks/Documents/USTPublicRecord.pdf). For a sense of scale, 50 leaks means 2.8% of the 1,796 regulated Oregon Underground Storage Tank facilities leaked in one year. And many of the leaks in the DEQ database are not detected until the tank is decommissioned. Also, it is worth understanding from the Oregon DEQ annual report that even if the tank itself is working perfectly USTs can leak from their dispensers, piping, or have spills caused from delivery hardware.
+
+<a href="/assets/img/ust-spill-causes.png"><img src="/assets/img/ust-spill-causes.png" height="200" /></a>
+
+### Abandoned Underground Storage Tanks
 
 > No one would argue that the best abandoned tanks program is one that prevents tanks from becoming abandoned in the first place.
 
