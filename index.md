@@ -6,7 +6,9 @@ title:
 
 Post Pump provides resources and research to help City, County, and State officials update Land Use and Zoning codes in an electric vehicle future. In particular we advocate for municipalities to begin planning for the decline and insolvency of gas/fuel/service stations across the United States and the financial and environmental impact of station abandonment.
 
-## What options are there to change zoning?
+## Land Use and Zoning
+
+### What zoning policies exist to reduce risk from service/fuel/gas stations?
 
 - **Short term** (conservative plan): service/fuel/gas stations are required to have a 100+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
 
@@ -14,7 +16,7 @@ Post Pump provides resources and research to help City, County, and State offici
 
 - **Long term** (ultimate plan): service/fuel/gas stations are not allowed to be constructed. This will likely require double digit percentage electric vehicle adoption in the area along with rapid multi percentage point adoption year over year.
 
-## Is anyone changing zoning for service/fuel/gas stations?
+### Is anyone changing zoning for service/fuel/gas stations?
 
 In 2021 Petaluma, CA became the first city to ban the construction of new fuel stations. In their [City Land Use Code](https://petaluma.municipal.codes/ZoningOrds/4.Tables) you can now see that in all zones Fuel Stations are marked as "Use Not Allowed".
 
