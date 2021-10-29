@@ -40,3 +40,4 @@ In 2014 Montgomery County, MD passed Ordinance amendment that requires a 500ft s
 - [What will the gas station of the future look like?](https://www.rocklandtrust.com/financial-education/what-will-the-gas-station-of-the-future-look-like-)
 - [The future of gas stations: Do EVs dismantle local pumps?](https://www.cnet.com/roadshow/news/future-gas-station-ev/)
 - [When Is a Gas Station Not a Gas Station? When All the Cars Are EVs](https://www.bloomberg.com/news/articles/2021-02-18/when-cars-are-all-electric-we-ll-still-have-gas-stations)
+- [Life after Corner Gas: The challenges of developing old service stations](https://web.archive.org/web/20170316171922/https://www.theglobeandmail.com/report-on-business/industry-news/property-report/life-after-corner-gas-the-challenges-of-developing-old-service-stations/article32219739/)
