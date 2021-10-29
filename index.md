@@ -4,14 +4,26 @@ title:
 
 ## About Us
 
-Post Pump provides resources and research to help City, County, and State officials update Land Use and Zoning codes in an electric vehcile future. In particular we advocate for municipalities to begin planning for the decline and insolvency of gas/fuel/service stations across the United States and the financial and environmental impact of station abandonment.
+Post Pump provides resources and research to help City, County, and State officials update Land Use and Zoning codes in an electric vehicle future. In particular we advocate for municipalities to begin planning for the decline and insolvency of gas/fuel/service stations across the United States and the financial and environmental impact of station abandonment.
+
+## What options are there?
+
+- **Short term** (conservative plan): service/fuel/gas stations are required to have a 100+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
+
+- **Medium term** (modest plan): service/fuel/gas stations are not allowed in any normal commercial zoning. Instead specifically zoned areas are chosen to allow service stations. These "Service Station Zones" will be chosen for their distance from wetlands, parks, residences, schools, or other environmentally sensitive areas.
+
+- **Long term** (ultimate plan): service/fuel/gas stations are not allowed to be constructed. This will likely require double digit percentage electric vehicle adoption in the area along with rapid multi percentage point adoption year over year.
 
 ## Is anyone doing this?
 
-In 2021 Petaluma, CA became the first city to ban the contstruction of new fuel stations. In their [City Land Use Code](https://petaluma.municipal.codes/ZoningOrds/4.Tables) you can now see that in all zones Fuel Stations are marked as "Use Not Allowed".
+In 2021 Petaluma, CA became the first city to ban the construction of new fuel stations. In their [City Land Use Code](https://petaluma.municipal.codes/ZoningOrds/4.Tables) you can now see that in all zones Fuel Stations are marked as "Use Not Allowed".
 
 ![Petaluma Commercial Code with No Fuel Station Use](/assets/img/petaluma-code.png)
 
+
+In 2014 Montgomery County, MD passed Ordinance amendment that requires a 500ft setback from "dwelling unit; public or private school; park; playground; day care center; any outdoor use categorized as a Civic and Institutional use or a Recreation and Entertainment use; or any wetland, stream, river, flood plain, or environmentally sensitive area."
+
+![Montgomery County setback ordinance](/assets/img/montgomery-code.png)
 
 ## Reports
 
