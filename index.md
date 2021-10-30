@@ -14,7 +14,7 @@ Post Pump provides resources and research to help City, County, and State offici
 
 - **Medium term** (modest plan): service/fuel/gas stations are not allowed in any normal commercial zoning. Instead specifically zoned areas are chosen for service stations. These "Service Station Zones" are be chosen for their distance from wetlands, parks, residences, schools, or other environmentally sensitive areas.
 
-- **Long term** (ultimate plan): service/fuel/gas stations are not allowed to be constructed. This will likely require double digit percentage electric vehicle adoption in the area along with rapid multi percentage point adoption year over year.
+- **Long term** (ultimate plan): service/fuel/gas stations are not allowed to be constructed.
 
 ### Is anyone changing zoning for service/fuel/gas stations?
 
