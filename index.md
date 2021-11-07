@@ -31,7 +31,7 @@ In 2014 Montgomery County, MD passed Ordinance amendment that requires a 500ft s
 
 ### Oregon DEQ Annual Leak Report
 
-Oregon DEQ reported 50 Underground Storage Tank releases between October 1st 2020 and September 30th 2021 in their [annual report](https://www.oregon.gov/deq/tanks/Documents/USTPublicRecord.pdf). For a sense of scale, 50 leaks means 2.8% of the 1,796 regulated Oregon Underground Storage Tank facilities leaked in one year. And many of the leaks in the DEQ database are not detected until the tank is decommissioned. Also, it is worth understanding from the Oregon DEQ annual report that even if the tank itself is working perfectly USTs can leak from their dispensers, piping, or have spills caused from delivery hardware.
+Oregon DEQ reported 50 Underground Storage Tank releases between October 1st 2020 and September 30th 2021 in their [annual report](/assets/docs/oregon/oregon-deq-2021-ust-report.pdf). For a sense of scale, 50 leaks means 2.8% of the 1,796 regulated Oregon Underground Storage Tank facilities leaked in one year. And many of the leaks in the DEQ database are not detected until the tank is decommissioned. Also, it is worth understanding from the Oregon DEQ annual report that even if the tank itself is working perfectly USTs can leak from their dispensers, piping, or have spills caused from delivery hardware.
 
 <a href="/assets/img/ust-spill-causes.png"><img src="/assets/img/ust-spill-causes.png" height="200" /></a>
 
