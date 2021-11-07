@@ -10,7 +10,7 @@ Post Pump provides resources and research to help City, County, and State offici
 
 ### What zoning could exist to reduce the risks from service/fuel/gas stations?
 
-- **Short term** (conservative plan): service/fuel/gas stations are required to have a 100+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
+- **Short term** (conservative plan): service/fuel/gas stations are required to have a 100-500+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
 
 - **Medium term** (modest plan): service/fuel/gas stations are not allowed in any normal commercial zoning. Instead specifically zoned areas are chosen for service stations. These "Service Station Zones" are be chosen for their distance from wetlands, parks, residences, schools, or other environmentally sensitive areas.
 
