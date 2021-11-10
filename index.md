@@ -1,10 +1,10 @@
 ---
-title: 
+title: Post Pump - Land Use Planning for the Electric Vehicle Future
 ---
 
 ## About Us
 
-Post Pump provides resources and research to help City, County, and State officials update Land Use and Zoning codes in an electric vehicle future. In particular we advocate for municipalities to begin planning for the decline and insolvency of gas/fuel/service stations across the United States and the financial and environmental impact of station abandonment.
+Post Pump provides resources and research to help City, County, and State officials update their municipalities Land Use and Zoning codes in an electric vehicle future. In particular we advocate for municipalities to begin planning for the decline and insolvency of gas/fuel/service stations across the United States and the financial and environmental impact of station abandonment.
 
 ## Land Use and Zoning
 
