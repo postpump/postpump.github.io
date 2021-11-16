@@ -10,11 +10,11 @@ title: 2021 Oregon Washington County 874 SW Baseline Financial Records
 > 
 > - Total back taxes due to the County before foreclosure in 2014
 > 
-> - The sales agreement approved by the board of commissioners https://www.co.washington.or.us/Housing/News/private-sale-of-county-owned-property-approved-by-board-of-commissioners.cfm
+> - [The sales agreement approved by the board of commissioners](https://www.co.washington.or.us/Housing/News/private-sale-of-county-owned-property-approved-by-board-of-commissioners.cfm)
 > 
-> - The cost of the GeoDesign Project (named WashCoFM4-14-01) that was done by Department of Support Services Facilities and Parks Division and published by DEQ https://www.deq.state.or.us/Webdocs/Controls/Output/PdfHandler.ashx?p=acccbca3-d484-4855-836a-c5abac0c3e0apdf&s=NWDLUST34-93-0195_WashCo%20GW%20Sampling%20and%20File%20Review_20170414.pdf
+> - [The cost of the GeoDesign Project (named WashCoFM4-14-01) that was done by Department of Support Services Facilities and Parks Division and published by DEQ](https://www.deq.state.or.us/Webdocs/Controls/Output/PdfHandler.ashx?p=acccbca3-d484-4855-836a-c5abac0c3e0apdf&s=NWDLUST34-93-0195_WashCo%20GW%20Sampling%20and%20File%20Review_20170414.pdf)
 > 
-> - The cost of the cleanup and management done in September https://www.co.washington.or.us/Housing/News/homeless-encampment-cleanup-scheduled.cfm/
+> - [The cost of the cleanup and management done in September](https://www.co.washington.or.us/Housing/News/homeless-encampment-cleanup-scheduled.cfm/)
 > 
 > Thank you for your time and work. I will be publishing this work on my research project at https://postpump.org
 
