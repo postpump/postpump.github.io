@@ -5,7 +5,9 @@ title: 2021 Oregon Washington County 874 SW Baseline Financial Records
 ### Oregon Washington County 874 SW Baseline Financial Records
 
 From: Brandon Philips
+
 To: Washington County Records
+
 Date: 2021-11-10
 
 > 874 SW Baseline Road was a former Etsby service station that was foreclosed in 2014. I am requesting a few records related to it.
@@ -25,7 +27,9 @@ Date: 2021-11-10
 ### Washington County Records First Reply
 
 From: Washington County Records
+
 To: Brandon Philips
+
 Date: 2021-11-15
 
 > In accordance with Oregon Public Records law (ORS 192.324(2)), the County is acknowledging receipt of your written request for records. Having reviewed your request, the County is able to inform you that:
