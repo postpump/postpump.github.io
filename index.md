@@ -47,25 +47,6 @@ In 2014 Montgomery County, MD passed Ordinance amendment that requires a 500ft s
 
 ![Montgomery County setback ordinance](/assets/img/montgomery-code.png)
 
-## Reports
+## What Should I Read Next?
 
-### Oregon DEQ Annual Leak Report
-
-Oregon DEQ reported 50 Underground Storage Tank releases between October 1st 2020 and September 30th 2021 in their [annual report](/assets/docs/oregon/oregon-deq-2021-ust-report.pdf). For a sense of scale, 50 leaks means 2.8% of the 1,796 regulated Oregon Underground Storage Tank facilities leaked in one year. And many of the leaks in the DEQ database are not detected until the tank is decommissioned. Also, it is worth understanding from the Oregon DEQ annual report that even if the tank itself is working perfectly USTs can leak from their dispensers, piping, or have spills caused from delivery hardware.
-
-<a href="/assets/img/ust-spill-causes.png"><img src="/assets/img/ust-spill-causes.png" height="200" /></a>
-
-### Abandoned Underground Storage Tanks
-
-> No one would argue that the best abandoned tanks program is one that prevents tanks from becoming abandoned in the first place.
-
-- [Summary of State Programs and Data on Abandoned Underground Storage Tanks and Facilities](https://astswmo.org/summary-of-state-programs-and-data-on-abandoned-underground-storage-tanks-and-facilities/#)
-
-## Links
-
-### News Stories
-
-- [What will the gas station of the future look like?](https://www.rocklandtrust.com/financial-education/what-will-the-gas-station-of-the-future-look-like-)
-- [The future of gas stations: Do EVs dismantle local pumps?](https://www.cnet.com/roadshow/news/future-gas-station-ev/)
-- [When Is a Gas Station Not a Gas Station? When All the Cars Are EVs](https://www.bloomberg.com/news/articles/2021-02-18/when-cars-are-all-electric-we-ll-still-have-gas-stations)
-- [Life after Corner Gas: The challenges of developing old service stations](https://web.archive.org/web/20170316171922/https://www.theglobeandmail.com/report-on-business/industry-news/property-report/life-after-corner-gas-the-challenges-of-developing-old-service-stations/article32219739/)
+We have a number of [Data & Reports](/reports) to provide context on the economic and environmental costs of service stations. For a more general overview of the issues outlined there are also a number of [News Articles](/articles) related to the issue of abandoned service stations and the economic pinch they will be experiencing in the coming decade.
