@@ -1,16 +1,24 @@
 ---
-title: 
+title: Post Pump - Land Use Planning for the Electric Vehicle Future
 ---
 
-## About Us
+## Our Mission
 
-Post Pump provides resources and research to help City, County, and State officials update Land Use and Zoning codes in an electric vehicle future. In particular we advocate for municipalities to begin planning for the decline and insolvency of gas/fuel/service stations across the United States and the financial and environmental impact of station abandonment.
+We provide research and resources to help Citizens and City/County/State officials prepare their Land Use and Zoning codes for an electric vehicle future.
+
+In particular, we advocate for municipalities to use Land Use and Zoning to protect themselves from the environmental and economic risks from gas/fuel/service stations becoming bankrupt/insolvent/abandoned as electric vehicles remove the need for these businesses. In the worst case cleaning up fuel/gas stations can cost hundreds of thousands to millions of dollars.
+
+## Risks to Municipalities
+
+- Underground storage tanks frequently leak and are expensive to cleanup ([source](/reports/#frequency-of-leaks))
+- Cost recovery for fuel/gas station cleanup is complex and rarely succesful ([source](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp))
+- Foreclosing on a fuel/gas station with orphaned tanks is frought with complexity as municipalities navigate EPA Underground Storage Tank closure procedures, EPA Brownfield grants, and State innocent party programs ([see bankrupt/insolvent stories](/articles#bankruptinsolvent-stations))
 
 ## Land Use and Zoning
 
-### What zoning could exist to reduce the risks from service/fuel/gas stations?
+**What zoning policies could exist to reduce the risks from service/fuel/gas stations?**
 
-- **Short term** (conservative plan): service/fuel/gas stations are required to have a 100+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
+- **Short term** (conservative plan): service/fuel/gas stations are required to have a 100-500+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
 
 - **Medium term** (modest plan): service/fuel/gas stations are not allowed in any normal commercial zoning. Instead specifically zoned areas are chosen for service stations. These "Service Station Zones" are be chosen for their distance from wetlands, parks, residences, schools, or other environmentally sensitive areas.
 
@@ -27,25 +35,17 @@ In 2014 Montgomery County, MD passed Ordinance amendment that requires a 500ft s
 
 ![Montgomery County setback ordinance](/assets/img/montgomery-code.png)
 
-## Reports
 
-### Oregon DEQ Annual Leak Report
 
-Oregon DEQ reported 50 Underground Storage Tank releases between October 1st 2020 and September 30th 2021 in their [annual report](https://www.oregon.gov/deq/tanks/Documents/USTPublicRecord.pdf). For a sense of scale, 50 leaks means 2.8% of the 1,796 regulated Oregon Underground Storage Tank facilities leaked in one year. And many of the leaks in the DEQ database are not detected until the tank is decommissioned. Also, it is worth understanding from the Oregon DEQ annual report that even if the tank itself is working perfectly USTs can leak from their dispensers, piping, or have spills caused from delivery hardware.
 
-<a href="/assets/img/ust-spill-causes.png"><img src="/assets/img/ust-spill-causes.png" height="200" /></a>
+## Who regulates fuel station sites?
 
-### Abandoned Underground Storage Tanks
+**Summary: Municipalities regulate the location of fuel/gas stations. And zoning should be used by municipalities to ensure fuel/gas stations are located where leaks cause minimal damage and are inexpensive to cleanup later.**
 
-> No one would argue that the best abandoned tanks program is one that prevents tanks from becoming abandoned in the first place.
+- Does the EPA regulate fuel/gas station location? No, the EPA only regulates and enforces technical UST requirements, release/leak tracking, financial responsibility (insurance), and operator training ([40 CFR Part 281](https://www.ecfr.gov/current/title-40/chapter-I/subchapter-I/part-281?toc=1)).
+- Do local water districts regulate fuel/gas station location? Maybe. But, it seems uncommon. For example, in Washington County Oregon neither the storm water regulator (Clean Water Service) nor the drinking water utility (Tualatin Valley Water District) regulate siting of fuel/gas stations.
+- Does the U.S. Army Corps of Engineers regulate fuel/gas station location? No, not unless the site is directly inside a wetland which is an unlikely scenario.
 
-- [Summary of State Programs and Data on Abandoned Underground Storage Tanks and Facilities](https://astswmo.org/summary-of-state-programs-and-data-on-abandoned-underground-storage-tanks-and-facilities/#)
+## What Should I Read Next?
 
-## Links
-
-### News Stories
-
-- [What will the gas station of the future look like?](https://www.rocklandtrust.com/financial-education/what-will-the-gas-station-of-the-future-look-like-)
-- [The future of gas stations: Do EVs dismantle local pumps?](https://www.cnet.com/roadshow/news/future-gas-station-ev/)
-- [When Is a Gas Station Not a Gas Station? When All the Cars Are EVs](https://www.bloomberg.com/news/articles/2021-02-18/when-cars-are-all-electric-we-ll-still-have-gas-stations)
-- [Life after Corner Gas: The challenges of developing old service stations](https://web.archive.org/web/20170316171922/https://www.theglobeandmail.com/report-on-business/industry-news/property-report/life-after-corner-gas-the-challenges-of-developing-old-service-stations/article32219739/)
+We have a number of [Data & Reports](/reports) to provide context on the economic and environmental costs of service stations. For a more general overview of the issues outlined there are also a number of [News Articles](/articles) related to the issue of abandoned service stations and the economic pinch they will be experiencing in the coming decade.

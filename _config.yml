@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 show_downloads: false
 title: Post Pump
-logo: docs/assets/nabgas.png
+logo: /assets/img/postpump-logo.png
 description: Post Pump provides resources and research to help City, County, and State officials update Land Use and Zoning codes in an electric vehcile future.
 whitelist:
   - jekyll-redirect-from
