@@ -4,7 +4,7 @@ Do you have an article suggestion? Please email [brandon@postpump.org](mailto:br
 
 ## Large Underground Storage Leaks
 
-- 2021-04, Oregon DEQ Blog, [Updates: Gasoline Leak in Monmouth of 14,000 gallons into groundwater](https://deqblog.com/2021/04/07/updates-gasoline-leak-in-monmouth/)
+- 2021-04, Oregon DEQ Blog, [Updates: Gasoline Leak in Monmouth of 2,500 gallons into groundwater](https://deqblog.com/2021/04/07/updates-gasoline-leak-in-monmouth/)
 
 ## Service Station Redevelopment
 
