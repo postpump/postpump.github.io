@@ -4,7 +4,9 @@ title: Regulatory Guidance for Gas/Fuel/Service Stations
 
 # Regulatory Guidance
 
-A number of government agencies have put out guidance on siting of gas/fuel/service stations.
+A number of government agencies have put out guidance on siting of gas/fuel/service stations. This is a collection of some of those documents from various agencies.
+
+If you have other suggested documents please email [brandon@postpump.org](mailto:brandon@postpump.org)
 
 ## General Guidance
 
