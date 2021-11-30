@@ -18,7 +18,7 @@ In particular, we advocate for municipalities to use Land Use and Zoning to prot
 
 **What zoning policies could exist to reduce the risks from service/fuel/gas stations?**
 
-- **Short term** (conservative plan): service/fuel/gas stations are required to have a 100-500+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
+- **Short term** (conservative plan): service/fuel/gas stations are required to have a 300-500+ foot setback from sensitive sites like wetlands, parks, residences, schools, or other environmentally sensitive areas from the dangers related to underground storage tanks.
 
 - **Medium term** (modest plan): service/fuel/gas stations are not allowed in any normal commercial zoning. Instead specifically zoned areas are chosen for service stations. These "Service Station Zones" are be chosen for their distance from wetlands, parks, residences, schools, or other environmentally sensitive areas.
 
@@ -28,14 +28,10 @@ In particular, we advocate for municipalities to use Land Use and Zoning to prot
 
 In 2021 Petaluma, CA became the first city to ban the construction of new fuel stations. In their [City Land Use Code](https://petaluma.municipal.codes/ZoningOrds/4.Tables) you can now see that in all zones Fuel Stations are marked as "Use Not Allowed".
 
-![Petaluma Commercial Code with No Fuel Station Use](/assets/img/petaluma-code.png)
-
 
 In 2014 Montgomery County, MD passed Ordinance amendment that requires a 500ft setback from "dwelling unit; public or private school; park; playground; day care center; any outdoor use categorized as a Civic and Institutional use or a Recreation and Entertainment use; or any wetland, stream, river, flood plain, or environmentally sensitive area."
 
-![Montgomery County setback ordinance](/assets/img/montgomery-code.png)
-
-
+**Want more examples?** Many municipal codes already protect citizens and public resources from gas stations. See the [example gas station municipal codes](/gas-station-land-use-codes) page.
 
 
 ## Who regulates fuel station sites?
