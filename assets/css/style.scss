@@ -38,6 +38,15 @@ a:hover small {
   color:#777;
 }
 
+div.toc p {
+  margin: 0;
+}
+
+div.toc p.last {
+  margin: 0 0 25px;
+}
+
+
 .subscribe {
   background-color: #FEC260;
   border: none;
