@@ -1,5 +1,5 @@
 ---
-title: Post Pump - Land Use Planning for the Electric Vehicle Future
+title: Gas Station Land Use & Zoning for the EV Future
 ---
 
 ## Our Mission
