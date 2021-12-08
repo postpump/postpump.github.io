@@ -11,7 +11,7 @@ In particular, we advocate for municipalities to use Land Use and Zoning to prot
 ## Risks to Municipalities
 
 - Underground storage tanks frequently leak and are expensive to cleanup ([source](/reports/#frequency-of-leaks))
-- Cost recovery for fuel/gas station cleanup is complex and rarely succesful ([source](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp))
+- Cost recovery for fuel/gas station cleanup is complex and rarely succesful ([source](/gas-station-responsible-parties))
 - Foreclosing on a fuel/gas station with orphaned tanks is frought with complexity as municipalities navigate EPA Underground Storage Tank closure procedures, EPA Brownfield grants, and State innocent party programs ([see bankrupt/insolvent stories](/articles#bankruptinsolvent-stations))
 
 ## Land Use and Zoning
