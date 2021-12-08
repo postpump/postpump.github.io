@@ -8,7 +8,7 @@ If a leak is found at a gas station a very early question will be: who pays for 
 
 For more information on responsible party searches see the Environmental Protection Agencies (EPA) document on [Finding Potentially Responsible Parties](https://www.epa.gov/enforcement/finding-potentially-responsible-parties-prp)
 
-## Example of Complex Case
+## Example of a Complex Case
 
 This is an excerpt of the responsible party story from the story of the Elmira Family Store in Elmira, Oregon. According to a story in the Register Guard ([source](https://www.registerguard.com/story/news/2013/11/17/new-use-for-old-elmira/11654505007/)): "The state Department of Environmental Quality, which has been working for years to limit the pollution... has already spent nearly a quarter of a million dollars on the cleanup."
 
