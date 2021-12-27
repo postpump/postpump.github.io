@@ -18,6 +18,17 @@ This report has a lot of data from a bunch of different states. Unfortunately, d
 
 ## Economic 
 
+The total cost of gas station cleanup can be difficult to find. If the government has to step in the number of involved agencies and funding sources often complicate matters. However, we are trying our best to find examples.
+
+### Senz Automotive Service, Yamhill Oregon
+
+
+In November 2021 Brandon Philips made a public records request for Senz Automotive Service in Yamhill, Oregon. This site has a long and complex cleanup history with thousands of gallons of petroleum products lost which contaminated on-site soil, groundwater, and neighboring properties. So, far Oregon DEQ's cleanup costs have been **$514,466.53**. However, the cleanup is not complete and the damage to adjacent property values due to contamination is difficult to calculate. 
+
+- [Oregon DEQ Leaking Underground Storage Tank](https://www.deq.state.or.us/WebDocs/Forms/Output/LustOutput.aspx?SourceId=2053&SourceIdType=10)
+- [Responsible Party Excerpt](https://www.postpump.org/gas-station-responsible-parties)
+- [Spreadsheet of Oregon DEQ's costs](/reports/2021-oregon-deq-senz-auto-2001-2021.xlsx)
+
 ### In Progress
 
 - 2021-11-03: Brandon Philips put in a [public records request with Oregon DEQ](/reports/2021-oregon-deq-abandoned-tanks) for financial information related to their abandoned underground storage tank program.
