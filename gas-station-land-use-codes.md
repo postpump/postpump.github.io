@@ -6,7 +6,7 @@ title: Gas Station Land Use Codes
 
 This is a collection of gas/fuel/service station land use codes from different towns and counties across the United States. In their various forms they protect people, public property, and watersheds from the risks of gas stations.
 
-If you have editions or correction please email [brandon@postpump.org](mailto:brandon@postpump.org)
+If you have additions or correction please email [brandon@postpump.org](mailto:brandon@postpump.org)
 
 ## Petaluma, California
 
