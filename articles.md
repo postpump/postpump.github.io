@@ -2,9 +2,10 @@
 
 Do you have an article suggestion? Please email [brandon@postpump.org](mailto:brandon@postpump.org)
 
-## Large Underground Storage Leaks
+## Large Gas Station Leaks
 
 - 2021-04, Oregon DEQ Blog, [Updates: Gasoline Leak in Monmouth of 2,500 gallons into groundwater](https://deqblog.com/2021/04/07/updates-gasoline-leak-in-monmouth/)
+- 2021-10, 1,300 gallons of fuel to leaked after a driver hit a gas pump in Pasadena California in December 2021. The fuel was pulled into the Alhambra wash where hazmat crews did their best to cleanup the spill ([video](https://twitter.com/KNXBaird/status/1472977818619301891), [news](https://losangeles.cbslocal.com/2021/12/20/gasoline-spill-in-pasadena-has-spilled-into-alhambra-wash-prompting-emergency-response/))
 
 ## Service Station Redevelopment
 
