@@ -27,3 +27,13 @@ In November 2021 Brandon Philips made a public records request for Senz Automoti
 
 - [Oregon DEQ Leaking Underground Storage Tank](https://www.deq.state.or.us/WebDocs/Forms/Output/LustOutput.aspx?SourceId=2053&SourceIdType=10)
 - [Spreadsheet of Oregon DEQ's costs](/reports/2021-oregon-deq-senz-auto-2001-2021.xlsx)
+
+## Drinking Water and Environmental Risks
+
+### Preventing Groundwater Contamination at Gas Stations -- What Municipalities and Water Suppliers Can Do New Hampshire DES, 2020
+
+This 2020 report outlines how municipalties can and should use land use code siting restrictions to protect public health and the environment from leaks from gas stations. The report begins:
+
+> Generations of automobile drivers have become accustomed to finding gas stations conveniently located along busy roads and highways, at intersections, and in village centers, to support our automobile-dependent lifestyles. As the environmental risks associated with gas stations – particularly the risk of gasoline leaked from underground storage tank (UST) systems – have become increasingly clear, vast improvements have been made in the design, construction and operation of UST systems. Unfortunately, federal and state regulators and UST system designers and installers have not succeeded in engineering all of the groundwater contamination risk out of these systems. A study by the U.S. Geological Survey, which randomly sampled 225 water supply wells in Rockingham County in 2003, detected the gasoline additive MtBE in 40% of public wells, and found a correlation between MtBE concentration and proximity to USTs.
+
+- [Read the New Hampshire Department of Environmental Services report](https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/2020-01/dwgb-22-20.pdf)
