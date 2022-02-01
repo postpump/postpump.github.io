@@ -27,8 +27,3 @@ In November 2021 Brandon Philips made a public records request for Senz Automoti
 
 - [Oregon DEQ Leaking Underground Storage Tank](https://www.deq.state.or.us/WebDocs/Forms/Output/LustOutput.aspx?SourceId=2053&SourceIdType=10)
 - [Spreadsheet of Oregon DEQ's costs](/reports/2021-oregon-deq-senz-auto-2001-2021.xlsx)
-
-### In Progress
-
-- 2021-11-03: Brandon Philips put in a [public records request with Oregon DEQ](/reports/2021-oregon-deq-abandoned-tanks) for financial information related to their abandoned underground storage tank program.
-- 2021-11-10: Brandon Philips put in a [public records request with Washington County](/reports/2021-oregon-washington-county-874-sw-baseline) about the costs of environmental reviews, lost tax revenue, and cleanup costs.
