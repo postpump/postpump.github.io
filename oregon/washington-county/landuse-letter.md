@@ -6,7 +6,7 @@ title: Gas Station Restrictions Letter for Washington County Oreogn Land Use Sta
 
 We want to see Washington County pass laws (land use codes) that will ensure an application for a gas station near public parks, wetlands, or other sensitive areas can never be considered again. The next step on this mission is working with Washington County Land Use Staff to start a program to update the code.
 
-**Want to sign the letter?** Please read the letter below and email  [brandon@nabgas.com](mailto:brandon@postpump.org?subject=My Washington County Gas Station Restrictions Signature) to add your name to the letter.
+**Want to sign the letter?** Please read the letter below and email  [brandon@postpump.org](mailto:brandon@postpump.org?subject=My Washington County Gas Station Restrictions Signature) to add your name to the letter.
 
 ### Letter
 
@@ -33,4 +33,4 @@ We have a shared belief that land use codes should both encourage economic devel
 
 Thank You,
 
-**Do you agree with this letter?** Please send an email to [brandon@nabgas.com](mailto:brandon@brandon@postpump.org?subject=My Washington County Gas Station Restrictions Signature) to add your name.
+**Do you agree with this letter?** Please send an email to [brandon@postpump.org](mailto:brandon@postpump.org?subject=My Washington County Gas Station Restrictions Signature) to add your name.
