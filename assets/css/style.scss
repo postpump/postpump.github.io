@@ -46,6 +46,32 @@ div.toc p.last {
   margin: 0 0 25px;
 }
 
+div#banner { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  background-color: #3E2C41;
+  color: white;
+  font-weight: bold;
+  width: 100%; 
+}
+
+div#banner a {
+  color: white;
+}
+
+div#banner a:hover {
+  color: white;
+  font-weight: bold;
+}
+
+div#banner-content { 
+  margin: 0 auto; 
+  padding: 10px; 
+  display: flex;
+  justify-content: center;
+}
+
 
 .subscribe {
   background-color: #FEC260;
