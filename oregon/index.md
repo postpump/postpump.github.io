@@ -20,7 +20,7 @@ See [ORS 466.706-466.882 and 466.994](https://www.oregonlegislature.gov/bills_la
 
 Gas stations have significant risks of [nonpoint source pollution](https://www.epa.gov/nps/basic-information-about-nonpoint-source-nps-pollution) from the daily leaks and spills of gas dispensers and vehicles visiting stations. Handling this runoff is usually managed under stormwater runoff regulation at a federal, state, and municipal level. [See the Oregon DEQ Stormwater resource page](https://www.oregon.gov/deq/wq/wqpermits/Pages/MS4-Resources.aspx) for general information.
 
-In Oregon stormwater discharge is regulated via the [1200-Z industrial stormwater permit](https://www.oregon.gov/deq/wq/wqpermits/Pages/Stormwater-Industrial.aspx). However, retail gas stations are not subject to 1200-Z requirements. However, notably, motor vehicle parts and storage are required to get permits because of the risk spills and leaks:
+In Oregon stormwater discharge is regulated via the [1200-Z industrial stormwater permit](https://www.oregon.gov/deq/wq/wqpermits/Pages/Stormwater-Industrial.aspx). However, retail gas stations are not subject to 1200-Z requirements. And, notably, motor vehicle parts and storage are required to get permits because of the risk spills and leaks:
 
 > Schedule E – Sector-Specific Requirements for Industrial Activity Sector M – Motor Vehicle Parts, Used
 > E.M.1 Additional Technology-Based Effluent Limits
