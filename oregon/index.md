@@ -4,7 +4,7 @@ title: Oregon Gas Station Regulations
 
 ## Oregon Dept. of Environmental Quality
 
-Oregon DEQ runs a number of programs that are related to gas stations. However, there is no comprehensive program in Oregon for gas station regulation which underscores the need for municpalities to have their own land use rules to protect their economic, health, and environmental concerns.
+Oregon DEQ runs a number of programs that are related to gas stations. However, there is no comprehensive program in Oregon for gas station regulation. Therefore, each individual municpality must make their own land use rules to protect their economic, health, and environmental interests from the risks of gas stations.
 
 
 ### Underground Storage Tank (UST) Program
