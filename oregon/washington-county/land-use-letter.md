@@ -34,3 +34,23 @@ We have a shared belief that land use codes should both encourage economic devel
 Thank You,
 
 **Do you agree with this letter?** Please send an email to [brandon@postpump.org](mailto:brandon@postpump.org?subject=My Washington County Gas Station Restrictions Signature) to add your name.
+
+*Frequently Asked Questions*
+
+*Q:* How did you arrive at the 1,500ft setback requirement?
+
+*A:* We chose 1,500 ft setback because it was the highest municipal restriction we had found in our research short of an outright ban on new gas stations. For example it is the setback in Rock Hill, CT. The minimum consensus amongst municipalities we researched seems to be around 500 ft. You can see a few examples and direct links to example codes on this page: https://www.postpump.org/gas-station-land-use-codes
+
+*Q:* Is there Washington County Community Participation Organization (CPO) engagement?
+
+*A:* Yes, presentations were made in Feb. 2022 to both CPO1 and CPO7. There was positive reception at both meetings and many members signed the letter after the meetings.
+
+
+*Q:* Are County Commissioners aware of these requests?
+
+*A:* Yes, a number of public comments have been made on the topic to both the Board of Commissioners and the Planning Commission.
+
+
+*Q:* Do you understand that future changes to land use code will not affect accepted land use applications?
+
+*A:* Yes. Although this campaign is an offshoot of the opposition to Land Use Case L2100244 we understand that any changes to code will not affect the outcome of this case. However, we are motivated to ensure that gas station developments with the potential negative economic, environmental, and health impacts of that development are not considered again in Washington County.
