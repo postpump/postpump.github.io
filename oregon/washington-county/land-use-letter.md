@@ -61,7 +61,7 @@ Writing a letter to local media is a powerful way to bring attention to our requ
 
 ### Example Letter
 
-Fifty thousand gallons of petroleum stored in tanks underground is a liability. When those petroleum products are stored near ground water, public parks, or wetlands that liability can become a public disaster if a leak occurs. This isn't a hypothetical: Oregon DEQ's 2021 report showed a 3% leak rate for underground storage tanks.
+Your average 10 pump gas station stores 50,000 gallons of petroleum underground in gigantic tanks. And if those underground tanks, dispensers, or piping fail they can contaminate ground water, public parks, or wetlands. And a leak isn't a far off hypothetical: in 2021 Oregon DEQ reported a 3% annual leak rate for underground storage tanks facilities.
 
 That is why municipalities across the country are updating their land use codes to ensure gas stations are placed apart from sensitive areas. For example, in Rocky Hill, Connecticut no gas station can be built within 1,500 feet of a public park or playground, school, hospital, church, theater, public library or building for public assembly. In Harper Woods, Michigan it is 500 feet from any location of public assembly. The list goes on and on.
 
