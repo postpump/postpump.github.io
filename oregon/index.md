@@ -14,7 +14,7 @@ The [Oregon DEQ UST Program](https://www.oregon.gov/deq/tanks/Pages/default.aspx
 - [Leak statistics](https://www.oregon.gov/deq/tanks/Pages/Statistics.aspx)
 - [Searchable leaking underground storage tank database](https://www.oregon.gov/deq/tanks/Pages/tanks-records.aspx)
 
-See [ORS 466.706-466.882 and 466.994](https://www.oregonlegislature.gov/bills_laws/ors/ors466.html) for information on the Oregon Underground Storage Tank laws.
+See [ORS 466.706-466.882 and 466.994](https://www.oregonlegislature.gov/bills_laws/ors/ors466.html) for information on the Oregon Underground Storage Tank laws. In these Statutes you will find many details on how to install and license a compliant underground petroleum tank but no specific details on where to install a petroleum tank to avoid introducing economic, health, or environmental risks to a community.
 
 ### Stormwater Regulations
 
