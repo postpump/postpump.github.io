@@ -34,3 +34,62 @@ We have a shared belief that land use codes should both encourage economic devel
 Thank You,
 
 **Do you agree with this letter?** Please send an email to [brandon@postpump.org](mailto:brandon@postpump.org?subject=My Washington County Gas Station Restrictions Signature) to add your name.
+
+*Frequently Asked Questions*
+
+*Q:* How did you arrive at the 1,500ft setback requirement?
+
+*A:* We chose 1,500 ft setback because it was the highest municipal restriction we had found in our research short of an outright ban on new gas stations. For example it is the setback in Rock Hill, CT. The minimum consensus amongst municipalities we researched seems to be around 500 ft. You can see a few examples and direct links to example codes on this page: https://www.postpump.org/gas-station-land-use-codes
+
+*Q:* Is there Washington County Community Participation Organization (CPO) engagement?
+
+*A:* Yes, presentations were made in Feb. 2022 to both CPO1 and CPO7. There was positive reception at both meetings and many members signed the letter after the meetings.
+
+
+*Q:* Are County Commissioners aware of these requests?
+
+*A:* Yes, a number of public comments have been made on the topic to both the Board of Commissioners and the Planning Commission.
+
+
+*Q:* Do you understand that future changes to land use code will not affect accepted land use applications?
+
+*A:* Yes. Although this campaign is an offshoot of the opposition to Land Use Case L2100244 we understand that any changes to code will not affect the outcome of this case. However, we are motivated to ensure that gas station developments with the potential negative economic, environmental, and health impacts of that development are not considered again in Washington County.
+
+## Writing a Letter to the Editor
+
+Writing a letter to local media is a powerful way to bring attention to our request to Washington County. Use the letter below as a template to craft your own message and submit it to the media organizations below.
+
+### Example Letter
+
+Your average 10 pump gas station stores 50,000 gallons of petroleum underground in gigantic tanks. And if those underground tanks, dispensers, or piping fail they can contaminate ground water, public parks, or wetlands. And a leak isn't a far off hypothetical: in 2021 Oregon DEQ reported a 3% annual leak rate for underground storage tanks facilities.
+
+That is why municipalities across the country are updating their land use codes to ensure gas stations are placed apart from sensitive areas. For example, in Rocky Hill, Connecticut no gas station can be built within 1,500 feet of a public park or playground, school, hospital, church, theater, public library or building for public assembly. In Harper Woods, Michigan it is 500 feet from any location of public assembly. The list goes on and on.
+
+Gas station cleanup can take decades and can cost taxpayers hundreds of thousands to millions of dollars. According to an Oregon DEQ public records request an gas station abandoned by its owners in Yamhill, Oregon has cost taxpayers over $500,000 in cleanup over the last decade and the cleanup is incomplete.
+
+Passing land use updates is an urgent issue in fast growing Washington County. Here are just two examples of catastrophic west coast leaks last year: 14,000 gallons were released under Highway 99 in Monmouth, Oregon in April. 1,300 gallons of fuel leaked into the Alhambra storm water wash after a driver hit a gas pump in Pasadena California in December.  
+
+All municipalities across Oregon need to start taking common sense action to protect taxpayers from the risks of gas station leaks.
+
+All of the referenced data is available at [postpump.org](https://postpump.org).
+
+### Newspapers
+
+- [Beaverton times](https://www.emailmeform.com/builder/form/P6F64czlK9qVsdN0r2) - Our length limit is 300 words; submissions may be edited for length, grammar, libel and appropriate taste. Writers are limited to one letter per calendar month. Because of the volume of mail, not all letters can be printed. Letters must be signed with the writers full name. An address and daytime telephone number are needed for verification purposes; this information will not be published or released.
+- [Oregonian](mailto:letters@oregonian.com) - Please include your full address and daytime phone number, for verification only. Letters may be edited for length and clarity.
+- [Willamette Weekly](mailto:mzusman@wweek.com) - Letters to the editor must include the author’s street address and phone number for verification. Letters must be 250 or fewer words. 
+- [Patch Beaverton Daily](mailto:ash.the.copyartist@gmail.com) - Patch can only accept a letter posted on a public URL like a public Facebook post or other public social media.
+- [Cedar Mill News](https://cedarmillnews.com/contact/)
+
+
+### Radio
+
+- [OPB](mailto:opbnews@opb.org)
+
+### TV
+
+- [KATU](https://katu.com/station/contact)
+- [KPTV](https://www.kptv.com/site/contact.html)
+- [KOIN](https://www.koin.com/contact-us/)
+- [KGW](https://www.kgw.com/contact-us)
+

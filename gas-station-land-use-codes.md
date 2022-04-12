@@ -47,6 +47,8 @@ If you have additions or correction please email [brandon@postpump.org](mailto:b
 
 [![Montgomery County setback ordinance](/assets/img/montgomery-code.png)](/assets/img/montgomery-code.png)
 
+See also the Montgomery County [council documents](/assets/docs/montgomery-maryland/20120724_17-19.pdf), [staff opinion](/assets/docs/montgomery-maryland/mmotoMCPBreZTA15-07fillingstationsusestandards.pdf), and [special appeals opinion](/assets/docs/montgomery-maryland/2450s15.pdf)
+
 ## Borough of Bergenfield, New Jersey
 
 **Summary:** No gas station, or vehicular repair service shop shall be located within 300 feet of the following uses when located along the same street or the same block: schools, playgrounds, churches, hospitals, libraries, institutions for dependent children, or other similar places of public assembly.

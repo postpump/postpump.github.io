@@ -4,8 +4,9 @@ Do you have an article suggestion? Please email [brandon@postpump.org](mailto:br
 
 ## Large Gas Station Leaks
 
+- 2022-02, Oregon DEQ Blog, [Johnson Oil in Clatskanie one step closer to redevelopment after latest DEQ cleanup project](https://deqblog.com/2022/02/11/johnson-oil-in-clatskanie-one-step-closer-to-redevelopment-after-latest-deq-cleanup-project/)
 - 2021-04, Oregon DEQ Blog, [Updates: Gasoline Leak in Monmouth of 2,500 gallons into groundwater](https://deqblog.com/2021/04/07/updates-gasoline-leak-in-monmouth/)
-- 2021-10, 1,300 gallons of fuel to leaked after a driver hit a gas pump in Pasadena California in December 2021. The fuel was pulled into the Alhambra wash where hazmat crews did their best to cleanup the spill ([video](https://twitter.com/KNXBaird/status/1472977818619301891), [news](https://losangeles.cbslocal.com/2021/12/20/gasoline-spill-in-pasadena-has-spilled-into-alhambra-wash-prompting-emergency-response/))
+- 2021-10, 1,300 gallons of fuel to leaked after a driver hit a gas pump in Pasadena California in December 2021. The fuel was pulled into the Alhambra wash where hazmat crews did their best to cleanup the spill ([video](https://twitter.com/KNXBaird/status/1472977818619301891), [news](https://losangeles.cbslocal.com/2021/12/20/gasoline-spill-in-pasadena-has-spilled-into-alhambra-wash-prompting-emergency-response/)) 
 
 ## Service Station Redevelopment
 
@@ -16,5 +17,6 @@ Do you have an article suggestion? Please email [brandon@postpump.org](mailto:br
 
 ## Bankrupt/Insolvent Stations
 
-- 2021-10, Portland Tribune, [County: Hillsboro lot with 'extremely unsafe' homeless camp sold, sweep planned](https://pamplinmedia.com/pt/9-news/526545-420788-county-hillsboro-lot-with-extremely-unsafe-homeless-camp-sold-sweep-planned)
+- 2021-11, Oregon DEQ, [Former Johnson Oil](https://storymaps.arcgis.com/stories/eef8710e7a37464f945650f11422aa05)
+- 2021-10, Portland Tribune, [County: Hillsboro lot with 'extremely unsafe' homeless camp sold, sweep planned](https://pamplinmedia.com/pt/9-news/526545-420788-county-hillsboro-lot-with-extremely-unsafe-homeless-camp-sold-sweep-planned) 
 - 2018-07, AP News, [Pence family’s failed gas stations cost taxpayers $20M+](https://apnews.com/article/us-news-ap-top-news-in-state-wire-columbus-politics-07f9256ae1984362ba3eff192b4d6dd0)
