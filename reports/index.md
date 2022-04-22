@@ -12,7 +12,7 @@ Oregon DEQ reported 50 Underground Storage Tank releases between October 1st 202
 
 ### Summary of State Programs and Data on Abandoned Underground Storage Tanks and Facilities, 2017
 
-This report has a lot of data from a bunch of different states. Unfortunately, due to the use of averages, no information on cleanup requirements, and the wide range of dates covered no useful conclusions can really be drawn from the report. It is included for completeness primarily and as a reference for to the variety of State laws that apply to USTs.
+This report has a lot of data from a bunch of different states. Unfortunately, due to the use of averages, no information on cleanup requirements, and the wide range of dates covered no useful conclusions can really be drawn from the report. It is included for completeness primarily and as a reference to the variety of State laws that apply to USTs.
 
 - [Summary of State Programs and Data on Abandoned Underground Storage Tanks and Facilities](https://astswmo.org/summary-of-state-programs-and-data-on-abandoned-underground-storage-tanks-and-facilities/#)
 
