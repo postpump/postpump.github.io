@@ -6,7 +6,7 @@ title: Gas Station Land Use & Zoning for the EV Future
 
 We provide research and resources to help Citizens and City/County/State officials prepare their Land Use and Zoning codes for an electric vehicle future.
 
-In particular, we advocate for municipalities to use Land Use and Zoning to protect themselves from the environmental and economic risks from gas/fuel/service stations becoming bankrupt/insolvent/abandoned as electric vehicles remove the need for these businesses. In the worst case cleaning up fuel/gas stations can cost hundreds of thousands to millions of dollars.
+In particular, we advocate for municipalities to use Land Use and Zoning to protect themselves from the environmental and economic risks from gas/fuel/service stations becoming bankrupt/insolvent/abandoned as electric vehicles remove the need for these businesses. In the worst case cleaning up fuel/gas stations can cost municipalities/taxpayers hundreds of thousands to millions of dollars.
 
 ## Risks to Municipalities
 
