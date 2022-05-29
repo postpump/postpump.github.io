@@ -18,6 +18,7 @@ Do you have an article suggestion? Please email [brandon@postpump.org](mailto:br
 
 ## Bankrupt/Insolvent Stations
 
+- 2022-05, Seattle Times, [Aging gasoline storage tanks in WA pose environmental hazard, but many owners can’t afford cleanup](https://www.seattletimes.com/seattle-news/transportation/aging-gasoline-storage-tanks-in-wa-a-serious-threat-to-human-health-and-the-environment/)
 - 2021-11, Oregon DEQ, [Former Johnson Oil](https://storymaps.arcgis.com/stories/eef8710e7a37464f945650f11422aa05)
 - 2021-10, Portland Tribune, [County: Hillsboro lot with 'extremely unsafe' homeless camp sold, sweep planned](https://pamplinmedia.com/pt/9-news/526545-420788-county-hillsboro-lot-with-extremely-unsafe-homeless-camp-sold-sweep-planned) 
 - 2018-07, AP News, [Pence family’s failed gas stations cost taxpayers $20M+](https://apnews.com/article/us-news-ap-top-news-in-state-wire-columbus-politics-07f9256ae1984362ba3eff192b4d6dd0)
