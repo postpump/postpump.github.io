@@ -4,6 +4,7 @@ Do you have an article suggestion? Please email [brandon@postpump.org](mailto:br
 
 ## Large Gas Station Leaks
 
+- 2022-04, Oregon Public Broadcasting, [Medford fire at gas station sees 12K gallons of petroleum products spilled](https://www.opb.org/article/2022/04/15/medford-fire-gas-station-oil-spill/)
 - 2022-02, Oregon DEQ Blog, [Johnson Oil in Clatskanie one step closer to redevelopment after latest DEQ cleanup project](https://deqblog.com/2022/02/11/johnson-oil-in-clatskanie-one-step-closer-to-redevelopment-after-latest-deq-cleanup-project/)
 - 2021-04, Oregon DEQ Blog, [Updates: Gasoline Leak in Monmouth of 2,500 gallons into groundwater](https://deqblog.com/2021/04/07/updates-gasoline-leak-in-monmouth/)
 - 2021-10, 1,300 gallons of fuel to leaked after a driver hit a gas pump in Pasadena California in December 2021. The fuel was pulled into the Alhambra wash where hazmat crews did their best to cleanup the spill ([video](https://twitter.com/KNXBaird/status/1472977818619301891), [news](https://losangeles.cbslocal.com/2021/12/20/gasoline-spill-in-pasadena-has-spilled-into-alhambra-wash-prompting-emergency-response/)) 
