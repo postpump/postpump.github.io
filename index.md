@@ -14,7 +14,7 @@ In particular, we advocate for municipalities to use Land Use and Zoning to prot
 - Cost recovery for fuel/gas station cleanup is complex and rarely succesful ([source](/gas-station-responsible-parties))
 - Foreclosing on a fuel/gas station with orphaned tanks is frought with complexity as municipalities navigate EPA Underground Storage Tank closure procedures, EPA Brownfield grants, and State innocent party programs ([see bankrupt/insolvent stories](/articles#bankruptinsolvent-stations))
 
-<img src=“/assets/img/8771626e-a083-4002-99fb-86c317e9b3ae.jpeg” /> 
+<img src="/assets/img/8771626e-a083-4002-99fb-86c317e9b3ae.jpeg" /> 
 
 ## Land Use and Zoning
 
@@ -28,18 +28,17 @@ In particular, we advocate for municipalities to use Land Use and Zoning to prot
 
 ### Why are setbacks an effective policy?
 
-When an underground storage tank leaks the petroleum can travel through soils and groundwater. A setback may limit adjacent sensitive areas or properties from being affected.
+When an underground storage tank leaks the petroleum can travel on the surface or through soils and groundwater. A setback may limit adjacent sensitive areas or properties from being affected.
 
 For example here is a map from a [Staff report from Springfield Oregon](/oregon/springfield/Staff-Report-Sunny-Thurston.pdf) where 400 gallons leaked from underground storage tanks at a gas station and traveled roughly 100 feet via groundwater.
 
-<a href="/oregon/springfield/Sunny-Thurston-groundwater-map.png"><img src="/oregon/springfield/Sunny-Thurston-groundwater-map.png" height="200" /></a> |
+<a href="/oregon/springfield/Sunny-Thurston-groundwater-map.png"><img src="/oregon/springfield/Sunny-Thurston-groundwater-map.png" height="200" /></a>
 
 In this case having a leak only damage water and soil 100ft away is a "good" outcome. In April 2022, for example, a surface leak from a fuel depot in Medford [traveled over 1,400 feet and contaminated Bear Creek](https://www.opb.org/article/2022/04/15/medford-fire-gas-station-oil-spill/).
 
 ### Is anyone changing zoning for service/fuel/gas stations?
 
 In 2021 Petaluma, CA became the first city to ban the construction of new fuel stations. In their [City Land Use Code](https://petaluma.municipal.codes/ZoningOrds/4.Tables) you can now see that in all zones Fuel Stations are marked as "Use Not Allowed".
-
 
 In 2014 Montgomery County, MD passed Ordinance amendment that requires a 500ft setback from "dwelling unit; public or private school; park; playground; day care center; any outdoor use categorized as a Civic and Institutional use or a Recreation and Entertainment use; or any wetland, stream, river, flood plain, or environmentally sensitive area."
 
