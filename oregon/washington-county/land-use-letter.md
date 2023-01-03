@@ -11,16 +11,18 @@ We want to see Washington County pass laws (land use codes) that will ensure an 
 ### Letter
 
 ```
-To: LUTplan@co.washington.or.us
-CC: Pam_Treece@co.washington.or.us
+To: LUTplan@washingtoncountyor.gov, bcc@washingtoncountyor.gov,  Lutplanningcommission@washingtoncountyor.gov
+CC: Pam_Treece@washingtoncountyor.gov, n_fai-commissioner@washingtoncountyor.gov, Kathryn_Harrington@washingtoncountyor.gov,  Suzanne_Savin@washingtoncountyor.gov, Theresa_Cherniak@washingtoncountyor.gov, roy_rogers@washingtoncountyor.gov, jerry_willey@washingtoncountyor.gov, Stephen_Roberts@washingtoncountyor.gov, andy_back@washingtoncountyor.gov
 Subject: Gas Station Siting Restrictions for Sensitive Areas
 ```
 
 Hello Washington County Land Use Staff-
 
+Update: I am submitting this updated request and petition for the Long Range Planning Work Plan backlog item titled: "Gas station siting requirements" at the request of Suzanne Savin and Theresa Cherniak after our June 15, 2022 meeting. This updated petition includes 283 signatures from residents representing all districts in the County and a full reproduction of "Governing the Gas Spigot" from the Environmental Law Institute's 2021 journal as a summary of the supporting evidence for Staff and Commissioner review.
+
 We are citizens and organizations that want to see Washington County put land use restrictions on gas stations near sensitive areas. Data from Oregon DEQ, Federal EPA, and other organizations clearly show the economic, health, and environmental risks that gas stations and their underground petroleum tanks pose ([see reports](https://www.postpump.org/reports/)). And land use restrictions are the right tool to reduce and isolate these risks from sensitive public and private lands.
 
-In fact, many other municipalities have made similar land use code updates coast-to-coast from Petaluma, California to Montgomery County, Maryland ([see municipal codes](https://www.postpump.org/gas-station-land-use-codes)).
+In fact, many other municipalities have made similar land use code updates coast-to-coast from Santa Rosa, California (pop 176,000) to Montgomery County, Maryland (pop 1.055mil) ([see municipal codes](https://www.postpump.org/gas-station-land-use-codes)).
 
 **Our request:** We want Washington County land use codes updated to require that gas stations, currently operating gas stations excluded, be a minimum of 1,500 feet from any public park or playground, school, hospital, church, theater, dwelling unit, public library or building for public assembly; or any wetland, stream, river, flood plain, or environmentally sensitive area. We also want to see this applied to all zones across the County without an option for variance to ensure equitable and objective application of this requirement.
 
@@ -48,12 +50,13 @@ Thank You,
 
 *Q:* Are County Commissioners aware of these requests?
 
-*A:* Yes, a number of public comments have been made on the topic to both the Board of Commissioners and the Planning Commission.
+*A:* Yes, a number of public comments have been made on the topic to both the Board of Commissioners and the Planning Commission. Also, this topic appeared on the Long Range Planning Work Plan status report presented at the October 18 2022 BCC work session: https://nabgas.com/assets/docs/lrpwp-oct-2022.pdf
 
 
 *Q:* Do you understand that future changes to land use code will not affect accepted land use applications?
 
-*A:* Yes. Although this campaign is an offshoot of the opposition to Land Use Case L2100244 we understand that any changes to code will not affect the outcome of this case. However, we are motivated to ensure that gas station developments with the potential negative economic, environmental, and health impacts of that development are not considered again in Washington County.
+*A:* Yes. Although this campaign is an offshoot of the opposition to Land Use Case L2200199 (prev L2100244) we understand that any changes to code will not affect the outcome of this case. However, we are motivated to ensure that gas station developments with the potential negative economic, environmental, and health impacts of that development are not considered again in Washington County.
+
 
 ## Writing a Letter to the Editor
 
