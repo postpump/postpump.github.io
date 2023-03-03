@@ -78,7 +78,7 @@ All of the referenced data is available at [postpump.org](https://postpump.org).
 
 ### Newspapers
 
-- [Beaverton times](https://www.emailmeform.com/builder/form/P6F64czlK9qVsdN0r2) - Our length limit is 300 words; submissions may be edited for length, grammar, libel and appropriate taste. Writers are limited to one letter per calendar month. Because of the volume of mail, not all letters can be printed. Letters must be signed with the writers full name. An address and daytime telephone number are needed for verification purposes; this information will not be published or released.
+- [Beaverton times](https://www.beavertonvalleytimes.com/site/forms/online_services/letter_editor/) - Our length limit is 250 words; submissions may be edited for length, grammar, libel and appropriate taste. Writers are limited to one letter per calendar month. Because of the volume of mail, not all letters can be printed. Letters must be signed with the writers full name. An address and daytime telephone number are needed for verification purposes; this information will not be published or released.
 - [Oregonian](mailto:letters@oregonian.com) - Please include your full address and daytime phone number, for verification only. Letters may be edited for length and clarity.
 - [Willamette Weekly](mailto:mzusman@wweek.com) - Letters to the editor must include the author’s street address and phone number for verification. Letters must be 250 or fewer words. 
 - [Patch Beaverton Daily](mailto:ash.the.copyartist@gmail.com) - Patch can only accept a letter posted on a public URL like a public Facebook post or other public social media.
