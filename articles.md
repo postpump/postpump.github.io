@@ -26,3 +26,7 @@ Do you have an article suggestion? Please email [brandon@postpump.org](mailto:br
 - 2021-11, Oregon DEQ, [Former Johnson Oil](https://storymaps.arcgis.com/stories/eef8710e7a37464f945650f11422aa05)
 - 2021-10, Portland Tribune, [County: Hillsboro lot with 'extremely unsafe' homeless camp sold, sweep planned](https://pamplinmedia.com/pt/9-news/526545-420788-county-hillsboro-lot-with-extremely-unsafe-homeless-camp-sold-sweep-planned) 
 - 2018-07, AP News, [Pence family’s failed gas stations cost taxpayers $20M+](https://apnews.com/article/us-news-ap-top-news-in-state-wire-columbus-politics-07f9256ae1984362ba3eff192b4d6dd0)
+
+## Land Use Debate
+
+- 2023-04, Salt Lake Tribune, [See why a gas station at the old Sizzler site near Sugar House Park might not be built after all](https://www.sltrib.com/news/2023/04/04/surprise-move-planners-urge-slc/)
